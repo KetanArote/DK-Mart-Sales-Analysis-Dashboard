@@ -1,7 +1,7 @@
-# 🛒 D-Mart Sales Analysis Dashboard
+# 🛒 DK-Mart Sales Analysis Dashboard
 
 ## 📌 Project Overview
-Interactive **Power BI** dashboards analyzing D-Mart retail sales. Explore revenue trends, product category performance, regional sales distribution, and promotion impact. Turns raw sales data into actionable insights quickly.
+Interactive **Power BI** dashboards analyzing DK-Mart retail sales. Explore revenue trends, product category performance, regional sales distribution, and promotion impact. Turns raw sales data into actionable insights quickly.
 
 ## 📊 Dashboards
 
